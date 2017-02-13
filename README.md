@@ -1,4 +1,4 @@
-# Green Life
+# Greenie
 
 A social website using Flask http://greenlife.herokuapp.com/
 
